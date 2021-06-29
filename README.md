@@ -30,7 +30,7 @@ El 25 de Junio celebramos la FiestAPI en directo con la presentación de los ret
 
 - [Borja](https://github.com/niltsiar/retos-livechallenge/tree/develop) (Kotlin)
 
-- Xurxo (JavaScript)
+- [Xurxo](https://github.com/xurxof/retomalandriner2) (JavaScript)
 
 - [Miguel](https://codepen.io/migbara/full/jOBKxPG) (JavaScript)
 
